@@ -1,0 +1,15 @@
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\bin\Debug\net10.0\Opdracht Fibonacci en tafelkaart.exe
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\bin\Debug\net10.0\Opdracht Fibonacci en tafelkaart.deps.json
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\bin\Debug\net10.0\Opdracht Fibonacci en tafelkaart.runtimeconfig.json
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\bin\Debug\net10.0\Opdracht Fibonacci en tafelkaart.dll
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\bin\Debug\net10.0\Opdracht Fibonacci en tafelkaart.pdb
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\Opdracht Fibonacci en tafelkaart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\Opdracht Fibonacci en tafelkaart.AssemblyInfoInputs.cache
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\Opdracht Fibonacci en tafelkaart.AssemblyInfo.cs
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\Opdracht Fibonacci en tafelkaart.csproj.CoreCompileInputs.cache
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\Opdracht Fibonacci en tafelkaart.dll
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\refint\Opdracht Fibonacci en tafelkaart.dll
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\Opdracht Fibonacci en tafelkaart.pdb
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\Opdracht Fibonacci en tafelkaart.genruntimeconfig.cache
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\ref\Opdracht Fibonacci en tafelkaart.dll
+C:\Users\bloem\OneDrive\Documenten\vakken\ICT\main.c\Opdracht Fibonacci en tafelkaart\Opdracht Fibonacci en tafelkaart\obj\Debug\net10.0\Opdracht.DB3F5E4F.Up2Date
